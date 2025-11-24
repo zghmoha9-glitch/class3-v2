@@ -1,0 +1,48 @@
+main{
+    background-image: url('assets1/d13a6e0f73ced9899d30b4930c6b619f.jpg') ;
+    padding: 30px 0 0 50px;
+    margin: 50px;
+    min-height: 500px;
+}
+.header{
+    color : whitesmoke;
+    font-family:Georgia;
+    font-size: 24px;
+}
+.title{
+    font-size: 36px;
+    font-weight: bold;
+    color: red;
+}
+.description{
+    font-size: 20px;
+    color:whitesmoke;
+    max-width: 300px;
+
+}
+.graduate-regular {
+   font-family: "Graduate", serif;
+   font-weight: 400;
+   font-style: normal;
+}
+
+body{
+    margin: 0;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+    color: lightsteelblue;
+    font-size: 24px;
+    font-weight: bold;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+}
+li img{
+    width: 20px;
+    height: 20px;
+}
